@@ -7,6 +7,14 @@
     "decimals":18,
     "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/EUSK.png"
   },
+    {
+    "chainId":1666600000,
+    "address":"0x8dc5746bba8f1d60b275aa2665bacaa1941c603c",
+    "symbol":"TSR",
+    "name":"Tesseract",
+    "decimals":18,
+    "logoURI":"https://i.ibb.co/N3Jf5px/567457456.png"
+  },
   {
     "chainId":1666600000,
     "address":"0x7d0546dBb1Dca8108d99Aa389A8e9Ce0C40B2370",
